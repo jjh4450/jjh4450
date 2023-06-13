@@ -3,6 +3,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjh4450)](https://solved.ac/jjh4450)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jjh4450&theme=dark)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fm.blog.naver.com%2Fdlaxodud2388%2F222105311346&count_bg=%23555555&title_bg=%23555555&icon=pinboard.svg&icon_color=%23E7E7E7&title=day%2Ftota&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjh4450&layout=compact)](https://github.com/jjh4450/github-readme-stats)
